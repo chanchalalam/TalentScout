@@ -27,7 +27,9 @@ Backend Logic: Python functions for hashing, querying, and progress simulation.
 ## Prerequisites 🛠️🛠️🛠️
 
 Python 3.8+
+
 Streamlit installed (pip install streamlit)
+
 Backend functions implemented in backend.py
 
 ## Installation 🚀🚀🚀
@@ -45,9 +47,7 @@ query_llama(conversation: list) -> str: Generates responses using the LLM backen
 
 simulate_progress(): Simulates progress for a loading effect.
 
-## Run the application:
-
-streamlit run app.py
+Run the application:streamlit run app.py
 
 ## Usage 📋📋📋
 
@@ -63,7 +63,6 @@ Complete the conversation and end the session. 😊😊😊
 
 ## File Structure 📂📂📂
 
-.
 ├── app.py               # Main Streamlit app file
 
 ├── backend.py           # Backend utility functions
