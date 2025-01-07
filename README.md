@@ -34,7 +34,7 @@ Backend functions implemented in backend.py
 
 ## Installation 🚀🚀🚀
 
-Clone the repository: git clone https://github.com/chanchalalam/talentscout.git
+Clone the repository: git clone https://github.com/chanchalalam/TalentScout.git
 cd talentscout
 
 Install dependencies: pip install -r requirements.txt
