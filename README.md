@@ -1,6 +1,5 @@
 # TalentScout: Hiring Assistant Chatbot
 ## Try Now: https://talentscoutaihiring.streamlit.app/
-<img width="1440" alt="Screenshot 2025-01-07 at 11 21 20 PM" src="https://github.com/user-attachments/assets/07d824f6-4c03-48fc-9d9d-f6688425fd58" />
 <img width="967" alt="Screenshot 2025-01-07 at 11 21 31 PM" src="https://github.com/user-attachments/assets/82b477fd-f55d-4c97-913e-69c216790332" />
 <img width="855" alt="Screenshot 2025-01-07 at 11 21 53 PM" src="https://github.com/user-attachments/assets/c18f7902-0cc6-4057-9556-f343aa9838a0" />
 <img width="874" alt="Screenshot 2025-01-07 at 11 22 07 PM" src="https://github.com/user-attachments/assets/42045ac6-7092-4952-b81a-156e90ab1ac2" />
